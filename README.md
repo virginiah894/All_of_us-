@@ -8,3 +8,7 @@
 Please put down ideas below
      * Hacker life
      * Bioinformatics
+     
+     
+     
+    github is nice poject manager 
