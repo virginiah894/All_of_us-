@@ -16,5 +16,7 @@ Please put down ideas below
      
     github is nice poject manager 
 
-
+I have added a new line yesterday I wasn't able to do this.
 This is contribution from Chifwete
+
+BOINIFORMATICS IS A GREAT FIELD FOR BIOLOGICAL SCIENCES RESEARCH
